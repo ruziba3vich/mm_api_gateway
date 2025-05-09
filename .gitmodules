@@ -1,0 +1,6 @@
+[submodule "protos/mm_user_protos"]
+	path = protos/mm_user_protos
+	url = https://github.com/ruziba3vich/mm_user_protos.git
+[submodule "protos/article_protos"]
+	path = protos/article_protos
+	url = https://github.com/ruziba3vich/article_protos.git
